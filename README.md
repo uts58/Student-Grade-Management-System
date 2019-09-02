@@ -1,5 +1,6 @@
 # java_student_grade_management_system
 Keep track of the results of your students using student grade management system!  
+Grade record management system using Java and mySQL
 
 # Features
 1. DB connection indicator.  
